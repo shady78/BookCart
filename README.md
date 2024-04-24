@@ -2,8 +2,9 @@
 An e-commerce application for an online book store created with ASP.NET Core and Angular, using SQL Server as database.
 
 # Demo
-[BCM.zip](https://github.com/shady78/BookCart/files/15084448/BCM.zip)
 
+
+https://github.com/shady78/BookCart/assets/89072052/d261d921-a866-4073-8ae0-3930f3e56161
 
 # Concepts Covered
 
